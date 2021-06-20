@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Shalini Ananda is a PhD in Materials Science and Engineering from Univeristy of California, San Diego. 
 
-You can use the [editor on GitHub](https://github.com/ShaliniAnandaPhD/SHALINI-ANANDA-QUANTUM-PUZZLES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+She is developing Quantum puzzles as a resource and tool to understand Quantum Computing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please find a list of resources you can use to familiarize yourself with quantum computing. 
 
-### Markdown
+IBM Quantum Experience is a free interactive tool that gives you access to highly advanced quantum computers. Explore this program by learning new things such as developing and learning programs. Whether you’d like to try for fun, or you want more coding practice, it’s an excellent course of action!‍
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Quantum Computing Playground is a software that takes you on a roller coaster of information, visuals, and interactive works. Playing with algorithms has never been more fun!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShaliniAnandaPhD/SHALINI-ANANDA-QUANTUM-PUZZLES/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Introducing ProjectQ, a software that allows any user to apply their quantum programs in Python. These quantum programs are then run on classic computers or quantum chips, translated by ProjectQ. ProjectQ establishes a fun and diverse way to put any quantum programs to use, while making your quantum dreams come true. How cool would it be to see your very own programs run on a quantum chip
